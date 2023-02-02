@@ -1,0 +1,14 @@
+#nav{
+    height: 20px;
+    display: flex;
+    background-color: rgb(55, 55, 231);
+    justify-content: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
